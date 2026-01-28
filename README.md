@@ -9,7 +9,7 @@ Acest proiect reprezintă o soluție completă pentru gestionarea unei bibliotec
 ## Tratarea Excepțiilor: Gestiunea erorilor prin excepții personalizate (ex: CarteNegasitaException, UtilizatorInexistentException).
 
 #Funcționalități
-
+##tyrfywe
 ## Gestiune Resurse: Adăugarea, ștergerea și actualizarea cărților și a autorilor.
 ## Administrare Utilizatori: Monitorizarea membrilor bibliotecii și a statusului acestora.
 ## Sistem de Raportare: Generarea de rapoarte privind disponibilitatea cărților.
